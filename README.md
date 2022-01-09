@@ -1,5 +1,7 @@
-# Markdownsyntax
+# Markdown syntax
 Markdown syntax for README.md
+
+[Doc By natrix](github.com/natrixdev) 
 
 
 # Heading level 1		
